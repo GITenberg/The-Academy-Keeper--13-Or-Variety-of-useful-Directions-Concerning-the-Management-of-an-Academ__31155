@@ -1,0 +1,33 @@
+_repo: The-Academy-Keeper--13-Or-Variety-of-useful-Directions-Concerning-the-Management-of-an-Academ__31155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2010-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire, English'
+- !lcc 'PR'
+- !lcsh 'Boarding schools'
+- !lcsh 'School management and organization'
+title: "The Academy Keeper\r\nOr Variety of useful Directions Concerning the Management\
+  \ of an Academy, The Terms, Diet, Lodging, Recreation, Discipline, and Instruction\
+  \ of Young Gentlemen. With the Proper Methods of addressing Parents and Guardians\
+  \ of all Ranks and Conditions"
+url: http://www.gutenberg.org/ebooks/31155
